@@ -1,4 +1,4 @@
-#CodeAlpha Internship Projects
+# CodeAlpha_Internship
 
 This repository contains the projects completed during my Full Stack Web Development Internship at CodeAlpha.
 The projects are built using the MERN Stack and demonstrate full-stack development concepts including authentication, REST APIs, database integration, state management, responsive UI design, and deployment-ready project structure.
